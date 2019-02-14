@@ -1,0 +1,8 @@
+{"@type":"com.rockarolla.DataTransferObject","name":"myTestDto","objects":["java.util.Arrays$ArrayList",[{"@type":"com.rockarolla.Customer","customerName":"joe"},{"@type":"com.rockarolla.Item","itemName":"Slinky toy"},{"@type":"java.util.HashMap","id":72,"version":"42"}]]}
+DataTransferObject{name='myTestDto', objects=[Customer{customerName='joe'}, Item{itemName='Slinky toy'}, {id=72, version=42}]}
+
+DTO deserialized list item 0, class: class com.rockarolla.Customer
+DTO deserialized list item 1, class: class com.rockarolla.Item
+DTO deserialized list item 2, class: class java.util.HashMap
+
+Process finished with exit code 0
